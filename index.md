@@ -1,37 +1,42 @@
-## Portfólio Gabriel Silva 
+# Portfólio Gabriel Silva 
 
-You can use the [editor on GitHub](https://github.com/GabrielMya/Portfolio/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## Desenvolvedor Com Experiência profissonal de 9 meses em:  
+```markdown  
+Java 11 com Spring 
+SQL 
+Sistema de Mensagerias com PUB/SUB e RabbitMQ
+NodeJS
+Ecommerces
+Erps
+Manipulação massiva de dados
+ ```
+## Trabalhando em um [sistema integrador de ecommerces e marketplaces](https://pipehub.com.br/)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<br><br/>
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Experiênca em projetos acadêmicos com:
 
 ```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+Ionic 5
+AngularJS
 ```
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+## Desenvolvedo um [aplicativo para o ensino de biologia](https://play.google.com/store/apps/details?id=br.com.appbiogpv2), utilizado para um pesquisa de Doutorado
 
-### Jekyll Themes
+<br><br/>
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/GabrielMya/Portfolio/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+## Atualmente se especializando em:
 
-### Support or Contact
+```markdown
+ Python
+ Docker
+ Ciência de dados
+ Algorítmos de aprendizado de máquina
+ Inteligência Artificial 
+```
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+<br><br/>
+<br><br/>
+
+# [GitHub](https://github.com/GabrielMya)
+# [Currículo Lattes](http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K2840073J1&tokenCaptchar=03AGdBq273HroGebFM7r_cW_thn98_8dxUsiOYa7nQl0Mz8XKq64UTEJYwFiXxO4NY-Xof6DxPdIIOddgkboxUxhFt3YtmVlpeVpKRyPfD0FpsogskTErQXuFNu1qcAG_Zagv2ioX4Khufpy0Ve7rUtAeIVPXCgVyGMAI_4MmeWRIfoykF9SJsuIy6t-4bzopfwcFPVwSVRrJ7irm9bELqKNXajXyEzFu4x13gUxSwu7ZgtS05k2xtUJE9Y4m7DygsoqT9kITI1kIaoLO3YDpRV4QWUI_MkhsqZgkOMp033e4ffOIXTnDsFmmvBAqwW14y0jaMZm5oCH1aoxDcgnhNbljBhhCVnnFQ5EXXijwxGV76i88Gay0ErNSv3HDJMlDDP4ZiNNTRG3wvxCRdmJK0dI7Xj94y-3w4Ymm4Ur-H7exU3GFX4E81anwwQZ914t0Ryt4EFEs2pWxSYXGmQDkWZZCGPx-YhxCcIg)
